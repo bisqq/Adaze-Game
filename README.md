@@ -19,7 +19,7 @@ For this to work we first need to install the `Audio Synesthesia` plugin in Unre
 ![](https://user-images.githubusercontent.com/29154540/158520578-c988251d-d598-4445-9ece-48bfd89c7464.png)
 ![](https://user-images.githubusercontent.com/29154540/158520631-e98efd5f-37c7-49ef-a34a-97fed29f49cb.png)
 
-After that we create another function called `Calculate Equalizer`, this takes each equalizer objects from the array and transform it.
+After that we create another function called `Calculate Equalizer`, this takes each equalizer objects from the array and transforms it.
 
 ![Screenshot 2022-03-15 221738](https://user-images.githubusercontent.com/29154540/158521647-e4a41c22-07f0-438d-805b-d35c06c40869.png)
 ![Screenshot 2022-03-15 221751](https://user-images.githubusercontent.com/29154540/158521651-c0edda11-6f0d-4858-8a84-9f7ab5e66f04.png)
