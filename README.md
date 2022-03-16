@@ -14,7 +14,7 @@ In the mobile version I worked on implementing a gyroscope so you would have to 
 ![](https://user-images.githubusercontent.com/29154540/158496664-3d57be78-b735-43d3-baa8-30f8872ff7f2.png)
 
 ## Audio Visualizer
-The way this visualizer works is we have an `Audio Controller` that handles the audio input. We first create a function called `Set Indexes` to set the frequency and amplitude index into an array. 
+For this to work we first need to install the `Audio Synesthesia` plugin in Unreal. The way this visualizer works is we have an `Audio Controller` that handles the audio input. We first create a function called `Set Indexes` to set the frequency and amplitude index into an array. 
 
 ![](https://user-images.githubusercontent.com/29154540/158520578-c988251d-d598-4445-9ece-48bfd89c7464.png)
 ![](https://user-images.githubusercontent.com/29154540/158520631-e98efd5f-37c7-49ef-a34a-97fed29f49cb.png)
