@@ -1,6 +1,6 @@
 # Adaze
 
-I had this idea to make a maze game based on music. So the player would input a song of there choice, which then I would used to implement into an audio visualizer. To prevent anyone from cheating I made the exact cubes that were playing the frequencies rise as the player got closer to it. Although the plugin in Unreal Engine to this day is still in beta, I have looked around and seen some people package the game which works fine. So based on that I will be coming back to work on this project.
+I had this idea to make a maze game based on music. So the player would input a song of there choice, which then I would used to implement into an audio visualizer. To prevent anyone from cheating I made the exact cubes that were playing the frequencies rise as the player got closer to it. Although the plugin in Unreal Engine to this day is still in beta, I have looked around and seen some people package a game with the plug-in and it seemed to work fine. So based on that I will be coming back to work on this project.
 
 https://user-images.githubusercontent.com/29154540/158494663-492dd5f9-b0d6-4bdd-9d37-f71e014c1b51.mp4
 
